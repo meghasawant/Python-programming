@@ -3,8 +3,8 @@
 n1 = input('Enter first number - ')	#accept number input
 
 n2 = input('Enter second number - ')
-
 print
+
 print "Fisrt Number ",n1
 print "Second Number ",n2
 
